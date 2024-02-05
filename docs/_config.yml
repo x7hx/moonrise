@@ -16,7 +16,7 @@ serverDescription: A Minecraft server where we have lots of fun!
 serverIP: west-end.fun
 
 
-useBedrockForOnlineStatus: true
+useBedrockForOnlineStatus: false
 
 
 # Discord information
