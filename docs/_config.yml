@@ -14,7 +14,7 @@ showinSearchEngines: true
 serverName: Moonrise MC
 serverDescription: A Minecraft server where we have lots of fun!
 serverIP: west-end.fun
-serverIP: west-end.ru
+
 
 useBedrockForOnlineStatus: true
 
