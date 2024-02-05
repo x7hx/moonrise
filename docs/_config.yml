@@ -21,8 +21,8 @@ useBedrockForOnlineStatus: false
 # Discord information
 discordInvite: https://discord.com/invite/af9fB2Ad
 discordServerID: 820676631114022943
-discordChannelID: 1198348963959550092
-
+discordChannelID: 827964117298053142
+discordChannelID: 1199374783570264196
 
 # # Navbar Links at the top of the page (uncomment "siteNav" to use)
 # #   name - The title on the navbar
