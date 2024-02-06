@@ -6,5 +6,5 @@ navname: Home
 cellLinks:
   - cname: Donate
     curl: donate
-    cimage: media/boosty.svg
+    cimage: media/White.png
 ---
