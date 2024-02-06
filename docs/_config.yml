@@ -11,9 +11,9 @@ showinSearchEngines: true
 
 
 # Set basic server info
-serverName: west-end
+serverName: West-end
 serverDescription: Minecraft server
-serverIP: west-end.fun
+serverIP: West-end.fun
 
 
 useBedrockForOnlineStatus: false
